@@ -16,7 +16,7 @@ he objective of this project is to provide an in-depth analysis of employee sala
 -Create an SQL stored procedure that will allow you to obtain the average male and female salary per department within a certain salary range. Let this range be defined by two values the user can insert when calling the procedure.
 Finally, visualize the obtained result-set in Tableau as a double bar chart. 
                                                                                                                                                                    
-- Dashboard interaction <a href=" https://github.com/AbosedeFaith-DA/company-salary-gender-trends/blob/main/Screenshot%202024-10-29%20144311.png">View Dashboard</a>                                                                                                                                                            
+- Dashboard interaction <a href="https://github.com/AbosedeFaith-DA/company-salary-gender-trends/blob/main/Screenshot%202024-10-29%20144311.png">View Dashboard</a>
 # Process
 - Data Extraction with SQL
 - Data Visualization in Tableau
