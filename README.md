@@ -1,7 +1,7 @@
 # company-salary-gender-trends
 
 # Project Objective
-he objective of this project is to provide an in-depth analysis of employee salary patterns and gender distribution across various departments within the ‘employees’ database. By examining average salaries, comparing male and female compensation trends over time, and assessing department-specific data, this analysis aims to uncover insights into gender-based salary trends and support data-driven decisions regarding pay equity and workforce composition.
+The objective of this project is to provide an in-depth analysis of employee salary patterns and gender distribution across various departments within the ‘employees’ database. By examining average salaries, comparing male and female compensation trends over time, and assessing department-specific data, this analysis aims to uncover insights into gender-based salary trends and support data-driven decisions regarding pay equity and workforce composition.
 # Dataset used
 - <a href='https://github.com/AbosedeFaith-DA/company-salary-gender-trends/blob/main/Task.csv'>Dataset</a>
     
